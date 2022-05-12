@@ -14,7 +14,7 @@
 <p>- Gosto de plantas, principalmente as que dá pra comer.</p>
 <p>Curiosidades:<p/>
 <p>Adoro aquarismo e já visitei quase todas as lojas sobre o assunto de Sp.</p>
-<a><img src="https://media.giphy.com/media/ktPDzGEpxWGxW/giphy.gif" width="160px"><a>  <a><img src="https://media.giphy.com/media/SSVSMrHmbfucc9CKGg/giphy.gif" width="180px"><a>
+<a><img src="https://media.giphy.com/media/SSVSMrHmbfucc9CKGg/giphy.gif" width="180px"><a>
  </details>
 
 	
