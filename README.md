@@ -1,4 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Profissional,%20ideias%20&%20papo%20aberto-007dbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perfil-amandabrito/)](https://www.linkedin.com/in/perfil-amandabrito/)
+[![Linkedin Badge](https://img.shields.io/badge/-Profissional,%20ideias%20&%20papo%20aberto-007dbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jean-gomes-64a973196
+/)](https://www.linkedin.com/in/perfil-amandabrito/)
 	
 <p> Eu pergunto muito, penso nos porques e em como as coisas funcionam, corro atrás de repertório, pra quando um dia eu precisar, conseguir buscar uma boa solução viável ✔. </p>
 <p> Tenho preferência em back-end 💻 . Possuo muito interesse em banco de dados, porque sou boa em delimitar métricas e avaliar aplicação pratica delas na estratégia de negócio. Sou uma Analista e Desenvolvedora de sistema junior.</p>
