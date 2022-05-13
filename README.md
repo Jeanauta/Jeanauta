@@ -14,6 +14,7 @@
 <p>- Gosto de plantas, principalmente as que dá pra comer.</p>
 <p>Curiosidades:<p/>
 <p>Adoro aquarismo e já visitei quase todas as lojas sobre o assunto de Sp.</p>
+	<section> 
 
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanauta&layout=compact&show_icons=true&theme=chartreuse-dark"></a>
 
@@ -26,5 +27,5 @@
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Jeanauta/count.svg" /></p>
 <p align="center">
+	</section> 
 	
-✨You are welcome to share and collaborate on any project in this repository! Let's go together!✨
