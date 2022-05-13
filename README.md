@@ -1,10 +1,7 @@
-
-	
-<p>  </p>
 <p> Tenho preferência em back-end 💻 . </p>
 <p> 📚 Já tive acesso a algumas linguagens como HTML, JavaScript, CSS e Java. Mas quero continuar aprendendo, porque amo a sensação boa que trás junto a isso! </p>
-<p></p>
 <details>
+	
 	<summary> <b> Hobbies e Curiosidades</b> <i>(Clique aqui)</i> </summary>
 <br>
 <p>- Adoro trabalhar home office e me sinto muito mais produtivo.</p>
@@ -14,12 +11,8 @@
 <p>- Gosto de plantas, principalmente as que dá pra comer.</p>
 <p>Curiosidades:<p/>
 <p>Adoro aquarismo e já visitei quase todas as lojas sobre o assunto de Sp.</p>
- 
-
-
 </details>
 
-<details>
  
 
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanauta&layout=compact&show_icons=true&theme=chartreuse-dark"></a>
@@ -33,6 +26,4 @@
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Jeanauta/count.svg" /></p>
 <p align="center">	
-	
-</details>
-	
+
