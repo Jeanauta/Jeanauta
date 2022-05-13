@@ -6,6 +6,7 @@
 <p></p>
 <details>
 	<summary> <b> Hobbies e Curiosidades</b> <i>(Clique aqui)</i> </summary>
+<br>
 <p>- Adoro trabalhar home office e me sinto muito mais produtivo.</p>
 <p>- Por incrivel que pareça estou sempre em movimento e aprendo diversas coisas de maneira autoditada.</p>
 <p>- Sou patinador e aprendi depois dos 18 anos.</p>
