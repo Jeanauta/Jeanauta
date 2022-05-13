@@ -2,7 +2,7 @@
 <p> 📚 Já tive acesso a algumas linguagens como HTML, JavaScript, CSS e Java. Mas quero continuar aprendendo, porque amo a sensação boa que trás junto a isso! </p>
 <details>
 	
-	<sumary> <b> Hobbies e Curiosidades</b> <i>(Clique aqui)</i> </summary>
+	<summary> <b> Hobbies e Curiosidades</b> <i>(Clique aqui)</i> </summmary>
 <br>
 <p>- Adoro trabalhar home office e me sinto muito mais produtivo.</p>
 <p>- Por incrivel que pareça estou sempre em movimento e aprendo diversas coisas de maneira autoditada.</p>
