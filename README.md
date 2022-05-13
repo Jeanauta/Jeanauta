@@ -1,9 +1,9 @@
 <p> Tenho preferência em back-end 💻 . </p>
 <p> 📚 Já tive acesso a algumas linguagens como HTML, JavaScript, CSS e Java. Mas quero continuar aprendendo, porque amo a sensação boa que trás junto a isso! </p>
+<p></p>
 <details>
-	
-	<summary> <b> Hobbies e Curiosidades</b> <i>(Clique aqui)</i> </summmary>
-<br>
+	<summary> <b> Hobbies </b> <i>(Clique aqui)</i> </summary>
+<p></p>
 <p>- Adoro trabalhar home office e me sinto muito mais produtivo.</p>
 <p>- Por incrivel que pareça estou sempre em movimento e aprendo diversas coisas de maneira autoditada.</p>
 <p>- Sou patinador e aprendi depois dos 18 anos.</p>
