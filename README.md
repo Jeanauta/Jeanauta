@@ -26,5 +26,5 @@
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Jeanauta/count.svg" /></p>
 <p align="center">
-
+</details>
 	
