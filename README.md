@@ -11,7 +11,7 @@
 <p>- Gosto de plantas, principalmente as que dá pra comer.</p>
 <p>Curiosidades:<p/>
 <p>Adoro aquarismo e já visitei quase todas as lojas sobre o assunto de Sp.</p>
-<details>
+</details>
  
 
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanauta&layout=compact&show_icons=true&theme=chartreuse-dark"></a>
