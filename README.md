@@ -14,7 +14,8 @@
 <p>- Estou sempre em movimento e aprendo diversas coisas de maneira autoditada.</p>
 <p>- Adoro trabalhar em home office e sinto meu dia muito mais produtivo.</p>
 <p>- De preferência vou ao parque nos fins de semana.</p>
-<p>Adoro aquarismo e já visitei quase todas as lojas sobre o assunto de Sp.</p>
+<p>Adoro aquarismo e já visitei quase todas as lojas sobre o assunto de São Paulo.</p>
+<p></p>
 </details>
  
 
