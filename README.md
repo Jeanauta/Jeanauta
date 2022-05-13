@@ -10,12 +10,10 @@
 <details>
 	<summary> <b> Hobbies e Curiosidades </b> <i>(Clique aqui)</i> </summary>
 <p></p>
-<p>- Adoro trabalhar home office e me sinto muito mais produtivo.</p>
-<p>- Por incrivel que pareça estou sempre em movimento e aprendo diversas coisas de maneira autoditada.</p>
 <p>- Sou patinador e aprendi depois dos 18 anos.</p>
+<p>- Estou sempre em movimento e aprendo diversas coisas de maneira autoditada.</p>
+<p>- Adoro trabalhar em home office e sinto meu dia muito mais produtivo.</p>
 <p>- De preferência vou ao parque nos fins de semana.</p>
-<p>- Gosto de plantas, principalmente as que dá pra comer.</p>
-<p>Curiosidades:<p/>
 <p>Adoro aquarismo e já visitei quase todas as lojas sobre o assunto de Sp.</p>
 </details>
  
