@@ -1,6 +1,12 @@
 <p> Tenho preferência em back-end 💻 . </p>
-<p> 📚 Já tive acesso a algumas linguagens como HTML, JavaScript, CSS e Java. Mas quero continuar aprendendo, porque amo a sensação boa que trás junto a isso! </p>
-<p></p>
+<p> 📚  Atualmente venho me desenvolvendo, com foco em back-end, essas foram as linguagens e tecnologias desenvolvidas em minha breve trajetória acadêmica profissional:
+
+- Java (iniciante)
+- JavaScript (iniciante);
+- CSS
+- HTML 5
+- Pacote Office
+</p>
 <details>
 	<summary> <b> Hobbies e Curiosidades </b> <i>(Clique aqui)</i> </summary>
 <p></p>
