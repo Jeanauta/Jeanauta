@@ -26,3 +26,5 @@
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Jeanauta/count.svg" /></p>
 <p align="center">
+	
+✨You are welcome to share and collaborate on any project in this repository! Let's go together!✨
